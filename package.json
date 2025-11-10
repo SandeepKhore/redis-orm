@@ -1,0 +1,30 @@
+{
+  "name": "redis-orm",
+  "version": "1.0.0",
+  "description": "MongoDB-like ORM for Redis with auto-indexing, TTLs, and query filters — powered by ioredis.",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Sandeep Khore",
+  "license": "MIT",
+  "keywords": [
+    "redis",
+    "orm",
+    "ioredis",
+    "query",
+    "nosql",
+    "repository-pattern",
+    "auto-indexing",
+    "mongodb-like"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandeepkhore/redis-orm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandeepkhore/redis-orm/issues"
+  },
+  "homepage": "https://github.com/sandeepkhore/redis-orm#readme",
+  "dependencies": {
+    "ioredis": "^5.3.2"
+  }
+}
