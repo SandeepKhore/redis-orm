@@ -1,5 +1,5 @@
 {
-  "name": "redis-orm",
+  "name": "redis-lite-orm",
   "version": "1.0.0",
   "description": "MongoDB-like ORM for Redis with auto-indexing, TTLs, and query filters — powered by ioredis.",
   "main": "src/index.js",
@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeepkhore/redis-orm.git"
+    "url": "https://github.com/sandeepkhore/redis-lite-orm.git"
   },
   "bugs": {
-    "url": "https://github.com/sandeepkhore/redis-orm/issues"
+    "url": "https://github.com/sandeepkhore/redis-lite-orm/issues"
   },
-  "homepage": "https://github.com/sandeepkhore/redis-orm#readme",
+  "homepage": "https://github.com/sandeepkhore/redis-lite-orm#readme",
   "dependencies": {
     "ioredis": "^5.3.2"
   }

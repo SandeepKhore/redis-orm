@@ -16,8 +16,8 @@ It adds query filtering, auto indexing, TTL, and collection-style APIs for Redis
 
 ### 1. Fork & Clone
 ```bash
-git clone https://github.com/sandeepkhore/redis-orm.git
-cd redis-orm
+git clone https://github.com/sandeepkhore/redis-lite-orm.git
+cd redis-lite-orm
 npm install
 ```
 
@@ -99,5 +99,5 @@ docker run --name redis -p 6379:6379 -d redis
 
 ## 💬 Community
 For feature requests or questions:
-- [Open an Issue](https://github.com/sandeepkhore/redis-orm/issues)
-- [Start a Discussion](https://github.com/SandeepKhore/redis-orm/discussions/)
+- [Open an Issue](https://github.com/sandeepkhore/redis-lite-orm/issues)
+- [Start a Discussion](https://github.com/SandeepKhore/redis-lite-orm/discussions/)
